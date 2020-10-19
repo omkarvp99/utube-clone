@@ -6,3 +6,8 @@
 - deployed using Firebase.
 - use following commands to run using local host
   - npm start
+# ScreenShots -
+### Home Page
+### ![](public/Home%20Page.png)
+### Search Page
+### ![](public/Search%20Page.png)
